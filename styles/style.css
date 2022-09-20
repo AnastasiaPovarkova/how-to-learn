@@ -19,6 +19,8 @@
   position: relative;
   background-color: #f2f2f2;
   display: flex;
+  align-items: center;
+  z-index: 1;
 }
 
 .logo {
@@ -27,23 +29,19 @@
   height: 32px;
 }
 
-.logo__place_header {
+.logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
-  z-index: 5;
 }
 
 .header__title {
   margin: 0;
-  display: flex;  /* Проверить, правильно ли написала правила с flex*/
   margin-left: 64px;
   width: 730px;
   line-height: 96px;
   font-size: 102px;
   font-weight: 600;
-  z-index: 4;
-  align-items: center;
 }
 
 .header__subtitle {
@@ -55,7 +53,6 @@
   bottom: 30px;
   left: 64px;
   width: 388px;
-  z-index: 3;
 }
 
 .header__link {
@@ -64,14 +61,18 @@
   color: #2f80ed;
 }
 
+.header__link:hover {
+  text-decoration: underline;
+}
+
 .header__main-illustration {
   width: 765px;
   height: 608px;
-  background-size: cover;
+  object-fit: cover;
   position: absolute;
   bottom: 0;
   right: 0;
-  z-index: 2;
+  z-index: -1;
 }
 
 .header__square-pic {
@@ -81,7 +82,7 @@
   position: absolute;
   top: 64px;
   right: 0;
-  z-index: 1;
+  z-index: -2;
 }
 
 /* Main */
@@ -146,7 +147,7 @@
   align-self: center;
   justify-content: center;
   margin-top: 100px;
-  width: 60%;
+  max-width: 60%;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
@@ -161,10 +162,12 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  width: 60%;
+  max-width: 60%;
 }
 
 .table {
+  padding: 0;
+  list-style: none;
   width: 1100px;
   display: flex;
   align-self: center;
@@ -197,7 +200,7 @@
 
 .feynman {
   margin: 0;
-  height: 890px;
+  min-height: 890px;
   background-color: #f2f2f2;
   background-image: url(../images/feynman.png);
   background-position: bottom left;
@@ -209,7 +212,7 @@
 
 .feynmann__title {
   margin: 0;
-  line-height: 115px;
+  line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
   width: 648px;
@@ -241,6 +244,10 @@
   color: #2f80ed;
 }
 
+.feynman__link:hover {
+  text-decoration: underline;
+}
+
 /* Kaufman */
 
 .kaufman {
@@ -248,7 +255,7 @@
   display: flex;
   flex-direction: column;
   position: relative;
-  z-index: -2;
+  z-index: 1;
   overflow: hidden;
 }
 
@@ -279,6 +286,9 @@
 }
 
 .kaufman__triangle {
+  margin: 0;
+  background-image: url(../images/kaufman-triangle.svg);
+  background-size: contain;
   width: 877px;
   height: 877px;
   position: absolute;
@@ -349,6 +359,10 @@
   text-decoration: none;
   display: flex;
   align-items: center;
+}
+
+.footer__column-link:hover {
+  text-decoration: underline;
 }
 
 .footer__social-icon {
