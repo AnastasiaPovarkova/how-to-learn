@@ -2,6 +2,7 @@
   margin: 0;
   width: 620px;
   height: 608px;
-  background: url("/images/khan-book.jpg") no-repeat;
   margin-right: 48px;
+  object-fit: cover;
+  object-position: top;
 }
