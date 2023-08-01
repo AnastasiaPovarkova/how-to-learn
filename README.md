@@ -18,3 +18,5 @@ ____
 
 ____
 #### Вторая проектная работа от Яндекс.Практикума. Сделано с любовью.
+
+Ссылка на GitHubPages: https://anastasiapovarkova.github.io/how-to-learn/
