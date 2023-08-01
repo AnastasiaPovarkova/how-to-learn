@@ -19,6 +19,4 @@ ____
 ____
 #### Вторая проектная работа от Яндекс.Практикума. Сделано с любовью.
 
-**GitHub Pages**
-
-[How To Learn](https://anastasiapovarkova.github.io/how-to-learn/)
+**GitHub Pages:**  [How To Learn](https://anastasiapovarkova.github.io/how-to-learn/)
