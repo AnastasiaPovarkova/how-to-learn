@@ -21,4 +21,4 @@ ____
 
 **GitHub Pages**
 
-* [How To Learn](https://anastasiapovarkova.github.io/how-to-learn/)
+[How To Learn](https://anastasiapovarkova.github.io/how-to-learn/)
