@@ -13,10 +13,12 @@ ____
 - Сайт написан на HTML и CSS. Без JavaScript.
 - Использованы keyframes для анимации.
 - Использованы iframes для просмотра видео.
-- Работают даже все ссылки, кроме запрещенных сайтов.
+- Работают все ссылки, кроме запрещенных сайтов.
 - Таблицы написаны на флексах.
 
 ____
 #### Вторая проектная работа от Яндекс.Практикума. Сделано с любовью.
 
-Ссылка на GitHubPages: https://anastasiapovarkova.github.io/how-to-learn/
+**GitHub Pages**
+
+* [How To Learn](https://anastasiapovarkova.github.io/how-to-learn/)
