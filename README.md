@@ -1,6 +1,7 @@
 # Одностраничный сайт Научиться учиться
 ____
-![Снимок экрана 2023-08-02 в 13 38 37](https://github.com/AnastasiaPovarkova/how-to-learn/assets/113605691/4cf5bb4e-ad1e-4710-bf33-2573ae324f71)
+![How_to_Learn](https://github.com/AnastasiaPovarkova/how-to-learn/assets/113605691/5eab62d4-7748-4954-8110-24d55f50fc65)
+
 
 ## На этом сайте читатель найдет для себя:
 
