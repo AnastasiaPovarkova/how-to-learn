@@ -1,9 +1,6 @@
 # Одностраничный сайт Научиться учиться
-____
-<a href=https://anastasiapovarkova.github.io/how-to-learn/><img id="How To Learn" src=https://github.com/AnastasiaPovarkova/how-to-learn/assets/113605691/5eab62d4-7748-4954-8110-24d55f50fc65></a>
 
 [![How To Learn](https://github.com/AnastasiaPovarkova/how-to-learn/assets/113605691/5eab62d4-7748-4954-8110-24d55f50fc65)](https://anastasiapovarkova.github.io/how-to-learn/)
-
 
 ## На этом сайте читатель найдет для себя:
 
