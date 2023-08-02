@@ -1,7 +1,7 @@
 # Одностраничный сайт Научиться учиться
 
 <a href="https://anastasiapovarkova.github.io/how-to-learn/" target="_blank">
-    <img src="./images/screensaver" title="How To Learn" alt="How To Learn"/>
+    <img src="https://github.com/AnastasiaPovarkova/how-to-learn/blob/main/images/screensaver.png?raw=true" title="How To Learn" alt="How To Learn"/>
 </a>
 
 ## На этом сайте читатель найдет для себя:
