@@ -6,5 +6,13 @@
   font-weight: normal;
   bottom: 30px;
   left: 64px;
-  width: 388px;
+  max-width: 388px;
+}
+
+@media screen and (max-width: 1220px) {
+  .header__subtitle {
+    max-width: 308px;
+    line-height: 22px;
+    font-size: 15px;
+  }
 }

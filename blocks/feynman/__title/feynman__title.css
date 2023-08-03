@@ -3,9 +3,16 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
-  width: 648px;
+  max-width: 648px;
   display: flex;
   text-align: center;
   align-self: center;
   margin-top: 100px;
+}
+
+@media screen and (max-width: 1220px) {
+  .feynman__title {
+    line-height: 78px;
+    font-size: 84px;
+  }
 }
