@@ -1,5 +1,5 @@
 # Одностраничный сайт Научиться учиться
-
+#### Статус: :white_check_mark: сделано
 <a href="https://anastasiapovarkova.github.io/how-to-learn/" target="_blank">
     <img src="https://github.com/AnastasiaPovarkova/how-to-learn/blob/main/images/screensaver.png?raw=true" title="How To Learn" alt="How To Learn"/>
 </a>
